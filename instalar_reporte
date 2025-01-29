@@ -1,0 +1,2 @@
+sudo apt install -y libfontconfig1 libfreetype6
+sudo apt install -y libc6 libgcc1 libglib2.0-0 libx11-6 libxext6 libxrender1
